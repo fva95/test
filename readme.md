@@ -1,4 +1,7 @@
-# my first title
-
-weffrgeg
-article
+# cheat sheet git comands
+'''
+git status // статус локального проекта 
+git add . // добавление файлов в stage
+git commit -m "my message" // комментирование либо логгирование в локальном репозитории
+git push // отправка кода на удаленный репозиторий
+git pull // получение текущего статуса репозитория
